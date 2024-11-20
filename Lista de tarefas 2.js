@@ -5,7 +5,7 @@ const readline = require('readline');
 
 const rl = readline.createInterface({
     input:process.stdin,output:process.stdout
-})
+});
 
 //Indicando o caminho do arquivo.json onde as tarefas ficarão armazenadas
 const filePath = path.join(__dirname,'Tarefas.json');
