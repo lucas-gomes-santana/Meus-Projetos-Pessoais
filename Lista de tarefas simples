@@ -1,4 +1,4 @@
-//Este código armazena as tarefas que são salvas no array tarefas em um arquivo chamado "tarefas/json" para guardar de forma permanente as tarefas mesmo se o usuário sair do VS code
+//Este código armazena as tarefas que são salvas no array tarefas em um arquivo chamado "tarefas.json" para guardar de forma permanente as tarefas mesmo se o usuário fechar o programa
 const path = require('path');
 const fs = require('fs');
 const readline = require('readline');
