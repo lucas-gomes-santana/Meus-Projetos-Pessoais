@@ -1,6 +1,6 @@
 # My-Personal-Projects
 
-Olá, meu nome é Lucas Gomes Santana. Sou um estudante do ensino médio que descobriu o mundo da programação há alguns meses. Desde então venho estudando programação por conta própria através de vídeos no YouTube e ChatGpt. Procuro reservar algumas horas para estudar.Se alguém conhece o assunto melhor que eu. Peço que deixem comentários falando sobre melhorias que posso fazer em meu código, frameworks e outros recursos relacionados à programação que um iniciante na área como eu pode aprender. Tenho conhecimento em C, C++ e Java, mas agora 
+Olá, meu nome é Lucas Gomes Santana. Sou um estudante do ensino médio que descobriu o mundo da programação há alguns meses. Desde então venho estudando programação por conta própria através de vídeos no YouTube e ChatGpt.Se alguém conhece o assunto melhor que eu. Peço que deixem comentários falando sobre melhorias que posso fazer em meu código, frameworks e outros recursos relacionados à programação que um iniciante na área como eu pode aprender. Tenho conhecimento em C, C++ e Java, mas agora 
 eu pretendo dominar o framework javascript Node.js
 
 Peço desculpas se meu GitHub está bagunçado ou mal configurado, pois como ainda estou conhecendo melhor a área, ainda não sei utilizar corretamente muitas das ferramentas da programação
