@@ -14,4 +14,4 @@ I apologize if my GitHub is messy or poorly configured, because as I'm still get
 
 Ferramentas que eu utilizo nos meu estudos(Tools I use in my studies)
 ![](https://cdn-jghdn.nitrocdn.com/WaAKrPwVavvRtmiuchNkiowpZvENVGmM/assets/images/optimized/rev-ae4f639/www.homehost.com.br/blog/wp-content/uploads/2019/07/htmlcssjs.jpg)
-![](https://raw.githubusercontent.com/khaosdoctor/blog-assets/master/images/2022/05/node.webp)
+![](https://cdn-images-1.medium.com/max/1200/0*MNVJq_8e0SJoqZb5.jpg)
