@@ -1,7 +1,5 @@
 # My-Personal-Projects
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1taXRBNpD86smnj1ASbXga&ust=1732539603426000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDeoZOD9YkDFQAAAAAdAAAAABAV
-
 Olá, meu nome é Lucas Gomes Santana. Sou um estudante do ensino médio que descobriu o mundo da programação há alguns meses. Desde então venho estudando programação por conta própria através de vídeos no YouTube e ChatGpt.Se alguém conhece o assunto melhor que eu. Peço que deixem comentários falando sobre melhorias que posso fazer em meu código, frameworks e outros recursos relacionados à programação que um iniciante na área como eu pode aprender. Tenho conhecimento em C, C++ e Java, mas agora 
 eu pretendo dominar o framework javascript Node.js
 
