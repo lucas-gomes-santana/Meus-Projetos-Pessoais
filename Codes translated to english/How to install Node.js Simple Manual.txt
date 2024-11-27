@@ -1,1 +1,131 @@
+These are my codes written in JavaScript for Node.js
 
+How to install Node.js?
+Node.js is a JavaScript platform that allows you to run code outside the browser, widely used for developing servers and JavaScript-based tools. Follow the steps below to install Node.js on your computer:
+
+Identify your operating system
+Make sure you know which operating system you are using (Windows, Linux, or macOS) and its architecture (32-bit or 64-bit).
+NOTE: Several terminal commands will be provided; these commands should be entered in sequence (from top to bottom).
+
+Installation on Windows
+A. Downloading Node.js
+Visit the official Node.js website: https://nodejs.org.
+Click the recommended download button (LTS - Long Term Support) for your Windows version.
+
+B. Installing Node.js
+Open the installer you downloaded.
+Follow the installer steps:
+
+Accept the license terms.
+Choose the installation location (the default is usually recommended).
+Ensure that the "Add to PATH" option is checked.
+Complete the installation.
+C. Verify the installation
+After installation, open the Command Prompt (cmd) or PowerShell and type:
+node -v
+This will display the installed Node.js version.
+
+Also, verify the npm (Node Package Manager) installation:
+npm -v
+This will display the version of the package manager that comes with Node.js.
+
+
+Installation on Linux (Commands vary depending of your distro)
+
+Ubuntu/Debian/Other Ubuntu-based distros
+These distributions use the apt package manager and have direct support for Node.js.
+
+Official method (most updated)
+Update the packages:
+sudo apt update
+Install the necessary tools:
+sudo apt install -y curl software-properties-common
+Add the official Node.js repository:
+curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
+This adds the latest LTS (Long Term Support) version.
+Install Node.js:
+sudo apt install -y nodejs
+
+Fedora/CentOS/RHEL
+These distributions use the dnf or yum package manager.
+
+Official method
+Install Node.js directly from the official repository:
+curl -fsSL https://rpm.nodesource.com/setup_lts.x | sudo bash -
+Install Node.js:
+sudo dnf install -y nodejs
+Use yum instead of dnf for CentOS-based distributions.
+
+Arch Linux and derivatives (Manjaro, EndeavourOS)
+Arch-based distributions use the pacman package manager.
+
+Standard method:
+Update the packages:
+sudo pacman -Syu
+Install Node.js:
+sudo pacman -S nodejs npm
+
+OpenSUSE
+OpenSUSE distributions use the zypper package manager.
+
+Standard method
+Update the repositories:
+sudo zypper refresh
+Install Node.js:
+sudo zypper install nodejs14 npm
+
+Alternative methods (work on any distro)
+If your distribution is not compatible with the methods above or you prefer something universal, here are options that work on any Linux:
+
+A. Using Node Version Manager (NVM)
+Install NVM (Node Version Manager):
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.5/install.sh | bash
+Close and reopen the terminal, or run:
+source ~/.bashrc
+Install the LTS version of Node.js with NVM:
+nvm install --lts
+Advantage: With NVM, you can manage multiple versions of Node.js and easily switch between them.
+
+B. Using Snap
+If Snap is enabled on your distribution:
+sudo snap install node --classic --channel=16
+Replace 16 with the desired version number.
+
+Verify the installation
+After installation, confirm Node.js is working:
+node -v
+npm -v
+
+
+Installation on macOS
+A. Using the official installer
+Visit https://nodejs.org.
+Download the recommended installer (LTS) for macOS.
+Open the installer and follow the steps to complete the installation.
+
+B. Using Homebrew
+If you already have Homebrew installed:
+Update Homebrew:
+brew update
+Install Node.js:
+brew install node
+
+C. Verify the installation
+After installing, check the versions:
+node -v
+npm -v
+
+Final Configuration
+No matter the operating system, after installing Node.js and npm, you can test your installation by creating and running a simple JavaScript file. Follow these steps:
+
+Create a test.js file with the following content:
+console.log("Node.js is working!");
+
+In the terminal or command prompt, run:
+node test.js
+
+You will see the message: "Node.js is working!".
+
+Now you are ready to use Node.js and run the codes in this repository!
+
+Also, install the "Code Runner" extension in VS Code to run JavaScript codes more efficiently.
