@@ -18,7 +18,7 @@ servidor.get('/usuario', (req,res) => {
 })
 
 
-//Criando uma porta para o servidor da API "escutar"
+//Criando uma porta para o servidor da API ficar hospedado na web
 servidor.listen(3000, () => { //3000 é o número da porta onde o servidor da API está configurado para rodar.O número da porta pode ser qualquer valor entre 0 e 65535, desde que essa porta não esteja em uso por outro serviço no seu sistema.
     //Mensagem que é impressa no terminal que indica que a API está funcionando coretamente
     console.log("O servidor está funcionando") 
