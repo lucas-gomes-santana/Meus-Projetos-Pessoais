@@ -1,4 +1,3 @@
-//Há diferenças desse código para o projeto lista de tarefas pois é um objeto que guarda os elementos criados aqui,não um array
 const path = require('path');
 const fs = require('fs'); 
 const readline = require('readline');
@@ -7,7 +6,7 @@ const rl = readline.createInterface({
     input:process.stdin,output:process.stdout
 });
 
-const filePath = path.join(__dirname,'Contas.json'); //Arquivo onde as contas dos usuários serão salvas
+const filePath = path.join(__dirname,'Contas.json'); //Arquivo onde as contas bancárias serão salvas de forma permanente
 
 //Função que irá carregar as contas do objeto contas para o arquivo.json
 function CarregarContas() {
@@ -20,7 +19,7 @@ function CarregarContas() {
         } 
         catch (error) {
             console.log("Erro ao carregar as tarefas: JSON inválido. Inicializando como vazio.");
-            return {}; // Se o JSON estiver corrompido, inicializa como vazio
+            return {}; // Se o JSON estiver corrompido, inicializa outro arquivo.json vazio
         }
     } 
     else {
