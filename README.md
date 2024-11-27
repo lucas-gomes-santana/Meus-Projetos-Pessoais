@@ -13,4 +13,5 @@ Hi, my name is Lucas Gomes Santana. I'm a Brazilian high school student who disc
 I apologize if my GitHub is messy or poorly configured, because as I'm still getting to know the area better, I still don't know how to properly use many of the programming tools
 
 Ferramentas que eu utilizo nos meu estudos(Tools I use in my studies)
+
 ![](https://cdn-images-1.medium.com/max/1200/0*MNVJq_8e0SJoqZb5.jpg)
