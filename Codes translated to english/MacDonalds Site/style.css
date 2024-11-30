@@ -176,11 +176,3 @@ footer p{
     box-shadow: 0 8px 11px rgba(0,0,0,0.8);
     opacity: 79%;
 }  
-
-/* Media query for devices between 768px and 1024px (landscape tablets) */
-@media (max-width: 1024px) {
-    header {
-        flex-direction: column;
-        align-items: center;
-        height: auto;
-        padding: 20
