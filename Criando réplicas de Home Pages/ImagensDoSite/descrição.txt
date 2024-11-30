@@ -1,0 +1,2 @@
+Esta é a pasta de imagens da réplica da Home Page do MacDonalds que eu fiz
+Tive que baixar muita imagem pois várias das imagens do site oficial estão com o seu endereço protegido.Ou seja,não dá pra só copiar o endereço e colá-lo nas tags img
