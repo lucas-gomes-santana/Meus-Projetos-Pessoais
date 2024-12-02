@@ -1,2 +1,0 @@
-This folder contain the images useds in this project
-I had to download a lot of images because the addresses of the images on the official website are protected. It was not possible to copy or paste the addresses into the HTML img tags
