@@ -25,4 +25,6 @@ Estou aberto a vagas de estágio ou emprego em Home Office(I am open to internsh
 
 Faça contato comigo através desses meios abaixo(Make contact with me using the methods bellow)
 
+if you want to get my projects tranlated to english,click on this link:https://github.com/lucas-gomes-santana/My-Personal-Projects
+
 Meu email principal(My main email): ls7128387@gmail.com
