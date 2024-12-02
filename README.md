@@ -22,6 +22,7 @@ Ferramentas que eu utilizo nos meu estudos por enquanto(Tools I use in my studie
 ![](https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg)
 
 Estou aberto a vagas de estágio ou emprego em Home Office(I am open to internships or jobs in the Home Office)
+
 Faça contato comigo através desses meios abaixo(Make contact with me using the methods bellow)
 
 Meu email principal(My main email): ls7128387@gmail.com
