@@ -14,8 +14,10 @@ I apologize if my GitHub is messy or poorly configured, because as I'm still get
 
 Ferramentas que eu utilizo nos meu estudos por enquanto(Tools I use in my studies for while)
 
-![](https://cdn-images-1.medium.com/max/1200/0*MNVJq_8e0SJoqZb5.jpg)
-![](https://media.licdn.com/dms/image/v2/D5612AQFMxThwQn7HZg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1697274440798?e=2147483647&v=beta&t=QLEHZgio8uRKebsNCrjEdh3rOvVmSUa7dSYgzCPBxBo)
+![](https://w7.pngwing.com/pngs/416/280/png-transparent-node-js-express-js-javascript-redis-mean-node-js-angle-text-service-thumbnail.png)
+![](https://skillicons.dev/icons?i=all)
+![](https://skillicons.dev/icons?i=all)
+![](https://skillicons.dev/icons?i=all)
 
 Estou aberto a vagas de estágio ou emprego em Home Office(I am open to internships or jobs in the Home Office)
 Faça contato comigo através desses meios abaixo(Make contact with me using the methods bellow)
