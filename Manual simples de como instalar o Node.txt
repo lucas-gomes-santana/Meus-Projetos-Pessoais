@@ -1,32 +1,31 @@
 Como instala o Node.js?
 Node.js é uma plataforma JavaScript que permite executar código fora do navegador, sendo amplamente utilizada para o desenvolvimento de servidores e ferramentas baseadas em JavaScript. Siga as instruções abaixo para instalar o Node.js no seu computador:
 
-1. Identifique o seu sistema operacional
+Identifique o seu sistema operacional
 Certifique-se de saber qual sistema operacional você está usando (Windows, Linux, ou macOS) e a arquitetura (32 bits ou 64 bits).
+OBS: Serão passadas várias linhas de comando de terminal, esses comandos devem ser digitados em sequência! (de cima para baixo)
 
-OBS:Serão passadas várias linhas de comando de terminal,esses comandos devem ser digitados em sequência!(de cima para baixo)
-
-2. Instalação no Windows
-
-Acesse o site oficial do Node.js copiando e colando este link na barra de endereços do Google Chrome ou outro navegador de pesquisa : https://nodejs.org/pt
+Instalação no Windows
+Acesse o site oficial do Node.js copiando e colando este link na barra de endereços do Google Chrome ou outro navegador de pesquisa: https://nodejs.org/pt
 Clique no botão de download recomendado (LTS - Long Term Support) para sua versão do Windows.
+
 B. Instalando o Node.js
 Abra o instalador que você baixou.
 Siga as etapas do instalador:
+
 Aceite os termos da licença.
 Escolha o local de instalação (geralmente o padrão é recomendado).
 Certifique-se de que a opção "Add to PATH" esteja marcada.
 Conclua a instalação.
 C. Verificar a instalação
 Após a instalação, abra o Prompt de Comando (cmd) ou o PowerShell e digite:
-bash
 node -v
 Isso exibirá a versão do Node.js instalada.
 
 Também verifique a instalação do npm (Node Package Manager):
-bash
 npm -v
 Isso exibirá a versão do gerenciador de pacotes que acompanha o Node.js.
+
 
 3. Instalação no Linux(Os comandos variam dependendo da distribuição que você estiver usando)
 
