@@ -16,7 +16,7 @@ dos bugs que surgirameu tive que solucioná-los por minha conta própria.Mas eu 
 
 5-Se não sabe programar ou nunca usou Electron.js.Siga as intruções abaixo para você instalar o Electron.js em uma pasta do seu computador para você usar este app
 
-INSTRUÇÕES: Use estes comandos em sequência no terminal do seu computador : 1- mkdir PastaProjeto(Você pode definir outro nome para a pasta onde você quer hospedar o Electron) 2- cd PastaProjeto(Ou o nome alternativo
-que você deu) 3- npm install electron --save-dev  4-Inicie o app usando o seguinte comando no terminal do seu editor de código: npm start.
+INSTRUÇÕES: Use estes comandos em sequência no terminal do seu computador : 1- mkdir PastaProjeto(Você pode definir outro nome para a pasta onde você quer hospedar o Electron); 2- cd PastaProjeto(Ou o nome alternativo
+que você deu); 3- npm install electron --save-dev; 4-Copie e cole estes arquivos para o diretório onde você instalou o Electron;  5-Inicie o app usando o seguinte comando no terminal do seu editor de código: npm start.
 
-6-Se vocẽ que está lendo isso é um Dev profissional e trabalha de home office,indica eu aqui pfv :< (If you who are reading this is a Professional Devoloper,indicate me please :<.Yes,i have know speak english)
+6-Se vocẽ que está lendo isso é um Dev profissional e trabalha de home office,indica eu aqui pfv :< (If you who are reading this is a Professional Devoloper,indicate me please :<.Yes,i know speak english)
