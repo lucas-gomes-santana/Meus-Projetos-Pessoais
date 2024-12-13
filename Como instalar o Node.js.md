@@ -1,6 +1,6 @@
-Este é um tutorial escrito simples de como instalar o framework do javascript Node.js
-OBS:Os comandos que serão passados aqui deverão ser inseridos no terminal do seu computador em sequência(de cima para baixo)
-Se houver erros neste tutorial escrito.Deixe comentários na seção de discussões deste repositório
+Este é um tutorial escrito simples de como instalar o framework do javascript Node.js.
+OBS:Os comandos que serão passados aqui deverão ser inseridos no terminal do seu computador em sequência(de cima para baixo).
+Se houver erros neste tutorial escrito.Deixe comentários na seção de discussões deste repositório.
 
 Instalando o Node.js no Windows
 Baixe o instalador:
