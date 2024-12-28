@@ -26,4 +26,4 @@ if you want to get my projects tranlated to english,click on this link:https://g
 
 Meu email principal(My main email): ls7128387@gmail.com            
 Meu Telefone(My Cell Phone Number): +55 (75) 99245-9695             
-Meu Linkedin(My Linkedin): https://www.linkedin.com/in/lucas-gomes-77892a343/
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/lucas-gomes-77892a343/)
