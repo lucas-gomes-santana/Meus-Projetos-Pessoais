@@ -4,7 +4,7 @@ INFORMAÇÕES SOBRE O MEU PROJETO!
 como abrir arquivos já exsitentes e salvar as alterações feitas nos arquivos.
 
 2-Deixarei os códigos-fonte deste projeto disponíveis no meu GitHub.Peço que se caso você entender sobre desenvolvimento com Electron.js melhor do que eu,deixe comentários no meu repositório sobre algum
-lugar na internet onde eu posso achar algum curso gratuito sobre o assunto ou deixe comentários na aba de discussões do meu repositório a respeito deste meu projeto,eu o agradeço muito se fizer isso :-).
+lugar na internet onde eu posso achar algum curso gratuito sobre o assunto ou deixe comentários na aba de discussões do meu repositório a respeito deste meu projeto,eu o agradeço muito se fizer isso :-)
 
 3-Eu irei tentar fazer melhorias futuras neste app.Mas isso irá levar algum tempo pois eu ainda tenho que estudar melhor sobre a lógica dos comandos dos códigos javascript que usam os recursos do
 framework electron.
@@ -16,7 +16,14 @@ dos bugs que surgirameu tive que solucioná-los por minha conta própria.Mas eu 
 
 5-Se não sabe programar ou nunca usou Electron.js.Siga as intruções abaixo para você instalar o Electron.js em uma pasta do seu computador para você usar este app
 
-INSTRUÇÕES: Use estes comandos em sequência no terminal do seu computador : 1- mkdir PastaProjeto(Você pode definir outro nome para a pasta onde você quer hospedar o Electron); 2- cd PastaProjeto(Ou o nome alternativo
-que você deu); 3- npm install electron --save-dev; 4-Copie e cole os arquivos deste projeto para o diretório onde você instalou o Electron;  5-Inicie o app usando o seguinte comando no terminal do seu editor de código: npm start.
+INSTRUÇÕES: Use estes comandos em sequência no terminal do seu computador : 
 
-6-Se vocẽ que está lendo isso é um Dev profissional e trabalha de home office,indica eu aqui pfv :< (If you who are reading this is a Professional Devoloper,indicate me please :<.Yes,i know speak english).
+1- mkdir PastaProjeto(Você pode definir outro nome para a pasta onde você quer hospedar o Electron).
+
+2- cd PastaProjeto(Ou o nome alternativoque você deu).
+
+3- npm install electron --save-dev.
+
+4-Copie e cole os arquivos deste projeto para o diretório onde você instalou o Electron.
+
+5-Inicie o app usando o seguinte comando no terminal do seu editor de código: npm start.
