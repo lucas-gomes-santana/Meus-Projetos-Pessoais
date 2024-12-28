@@ -20,9 +20,9 @@ Ferramentas que eu utilizo nos meu estudos por enquanto(Tools I use in my studie
 
 Estou aberto a vagas de estágio ou emprego em Home Office(I am open to internships or jobs in the Home Office)
 
-Faça contato comigo através desses meios abaixo(Make contact with me using the methods bellow)
-
 if you want to get my projects tranlated to english,click on this link:https://github.com/lucas-gomes-santana/My-Personal-Projects
+
+Faça contato comigo através desses meios abaixo(Make contact with me using the methods bellow)
 
 Meu email principal(My main email): ls7128387@gmail.com            
 Meu Telefone(My Cell Phone Number): +55 (75) 99245-9695             
