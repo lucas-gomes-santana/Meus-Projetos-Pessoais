@@ -8,14 +8,7 @@ Olá, meu nome é Lucas Gomes Santana. Sou um estudante do ensino médio que des
 
 Hi, my name is Lucas Gomes Santana. I'm a Brazilian high school student who discovered the world of programming a few months ago. Since then, I've been studying programming on my own through videos on YouTube and ChatGpt.If anyone who knows the subject better than me. I ask you to leave comments talking about improvements I can make to my code, frameworks and other resources related to programming that a beginner in the area like me can learn and become a better developer
 
-Linguagens de programação e tecnologias que eu utilizo(Programming languages ​​and technologies I use)
-
-![](https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg)
-![](https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg)
-![](https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg)
-![](https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg)
-![](https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg)
-![](https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg)
+<hr>
 
 Estou aberto a vagas de estágio ou emprego em Home Office(I am open to internships or jobs in the Home Office)
 
