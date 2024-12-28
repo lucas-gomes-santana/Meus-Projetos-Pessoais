@@ -25,5 +25,6 @@ if you want to get my projects tranlated to english,click on this link:https://g
 Faça contato comigo através desses meios abaixo(Make contact with me using the methods bellow)
 
 Meu email principal(My main email): ls7128387@gmail.com            
-Meu Telefone(My Cell Phone Number): +55 (75) 99245-9695             
+Meu Telefone(My Cell Phone Number): +55 (75) 99245-9695  
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/lucas-gomes-77892a343/)
