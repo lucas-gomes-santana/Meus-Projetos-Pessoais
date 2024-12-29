@@ -11,11 +11,4 @@ Estou aberto a vagas de estágio ou emprego em Home Office(I am open to internsh
 
 if you want to get my projects tranlated to english,click on this link:https://github.com/lucas-gomes-santana/My-Personal-Projects
 
-Faça contato comigo através desses meios abaixo(Make contact with me using the methods bellow)
-
-Meu email principal(My main email): ls7128387@gmail.com            
-Meu Telefone(My Cell Phone Number): +55 (75) 99245-9695  
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/lucas-gomes-77892a343/)
-
 Leia o conteúdo do arquivo LICENSE e sinta-se à vontade para contribuir para os meus projetos(Read the contents of the LICENSE file and feel free to contribute to my projects)
