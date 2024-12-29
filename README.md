@@ -7,8 +7,4 @@ Leia sobre o meu Perfil para informações sobre mim:https://github.com/lucas-go
 
 <hr>
 
-Estou aberto a vagas de estágio ou emprego em Home Office(I am open to internships or jobs in the Home Office)
-
-if you want to get my projects tranlated to english,click on this link:https://github.com/lucas-gomes-santana/My-Personal-Projects
-
 Leia o conteúdo do arquivo LICENSE e sinta-se à vontade para contribuir para os meus projetos(Read the contents of the LICENSE file and feel free to contribute to my projects)
