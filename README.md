@@ -11,4 +11,4 @@ Leia o conteúdo do arquivo LICENSE e sinta-se à vontade para contribuir para o
 
 <hr>
 
-My codes translated to english: 
+My codes translated to english: https://github.com/lucas-gomes-santana/My-Personal-Projects
