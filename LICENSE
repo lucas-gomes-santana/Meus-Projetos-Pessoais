@@ -1,19 +1,21 @@
-           Licença deste repositório
+MIT License
 
-           Copyrigth © 2024 Lucas Gomes Santana
+Copyright (c) 2025 Lucas Gomes Santana
 
-Leia a lista de ações autorizadas e ações não autorizadas abaixo para saber como você pode contribuir para o meu repositório ou usar os meu projetos sem quebrar nehum dos termos desta licença.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-AÇÕES AUTORIZADAS:
-
-1-Está autorizado o uso destes projetos para fins educacionais.Caso use os meus projetos para ter ajuda em trabalhos escolares ou universitários,peço que coloque créditos para referenciar o desenvolvedor original desses projetos (não é obrigatório fazer isso,mas seria de grande ajuda para eu conseguir reconhecimento,colocar o link deste meu repostiório ou meu GitHub já será o suficiente).
-
-2-Está autorizado a modificação dos códigos-fonte,seja para uso pessoal ou educacional.
-
-3-Está autorizado a modificação destes projetos para serem feitas Pulls Requests de volta para este repositório.
-
-
-AVISOS IMPORTANTES:
-
-Se caso alguns destes meus projetos forem usados ou adaptados para propósito comercial.Novamente eu peço para que deixe créditos para mim.Eu gostaria de ter um reconhecimento maior como um desenvolvedor iniciante e isso me ajuda a continuar a desenvolver mais projetos.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
