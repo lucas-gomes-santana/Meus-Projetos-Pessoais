@@ -20,7 +20,7 @@ INSTRUÇÕES: Use estes comandos em sequência no terminal do seu computador :
 
 1- mkdir PastaProjeto(Você pode definir outro nome para a pasta onde você quer hospedar o Electron).
 
-2- cd PastaProjeto(Ou o nome alternativoque você deu).
+2- cd PastaProjeto(Ou o nome alternativo que você deu).
 
 3- npm install electron --save-dev.
 
