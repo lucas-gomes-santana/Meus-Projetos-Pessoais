@@ -14,4 +14,4 @@ eu ainda estou estudando.Eu usei o ChatGpt para pegar os códigos javascript(Bac
 muito preciso para fazer tipos de códigos.Aconteceu muito de eu passar um código errado para ele corrigir e ele passava um código mais errado ainda kkkkk.Eu tive que passar os mesmos códigos várias e várias vezes,alguns
 dos bugs que surgirameu tive que solucioná-los por minha conta própria.Mas eu vou estudar melhor sobre a lógica destes códigos e vou tentar aprimorar ao máximo as minhas habilidades com este framework.
 
-5-Caso não tenha a biblioteca Electron instalada no seu computador,clique nesse link para aprender a instalar: https://www.youtube.com/watch?v=d5aYjZ7vtyw
+5-Caso não tenha a biblioteca Electron instalada no seu computador,clique nesse link para aprender a instalar: <a target="_blank" href="https://www.youtube.com/watch?v=d5aYjZ7vtyw">Instalar o Electron.js</a>
